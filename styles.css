@@ -1,0 +1,12 @@
+body {
+    font-family: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+}
+a {
+    color: black;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+a:hover {
+    text-decoration-style: solid;
+}
